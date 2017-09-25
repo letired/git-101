@@ -9,6 +9,11 @@ body {
   border-radius: 50%;
 }
 
+#darth {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+}
 #container {
   display: flex;
   align-items: center;
