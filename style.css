@@ -1,0 +1,18 @@
+body {
+  margin:0;
+  font-family: Helvetica;
+}
+
+#luke {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+}
+
+#container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+}
